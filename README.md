@@ -24,6 +24,7 @@ It allows seamless machine-native transactions:
 
 ## 📁 Community Servers
 
+* Agent Data Tools - 25 pay-per-call tools for AI agents (web extraction, screenshots, AI image and audio, domain and email checks, Base and Bitcoin lookups, FX, weather) as GET endpoints and an MCP server; $0.0002-$0.02 USDC on Base, failed calls not charged. [Website](https://agent-data-tools.revmesh2074.workers.dev) [Github](https://github.com/Nutshell2000/agent-data-tools)
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
 
 ---
